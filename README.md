@@ -32,5 +32,5 @@ This project focuses on cleaning and standardizing layoff data, specifically rel
 - Incorporate industry-specific insights to understand the impact of layoffs on various sectors.
 
 ## Getting Started
-To get started, clone the repository and ensure you have the required Python packages installed.
+To get started, clone the repository and ensure you have the required MySQL installed in your device.
 
