@@ -36,7 +36,3 @@ This project focuses on cleaning and standardizing layoff data, specifically rel
 ## Getting Started
 To get started, clone the repository and ensure you have the required Python packages installed.
 
-```bash
-git clone https://github.com/yourusername/layoffs-data-cleaning.git
-cd layoffs-data-cleaning
-pip install -r requirements.txt
