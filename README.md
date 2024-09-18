@@ -4,6 +4,9 @@ Layoffs Data Cleaning &amp; Standardization Project: This project involves impor
 ## Project Overview
 This project focuses on cleaning and standardizing layoff data, specifically related to company layoffs. The goal is to ensure the data is accurate, consistent, and usable for analysis. The data involves various company names, industries, and columns like `total_laid_off` and `percentage_laid_off`. By applying data cleaning techniques, we aim to eliminate duplicates, handle null values, and standardize the naming conventions.
 
+[Click here to view the Layoffs 2022 MySQL Data Cleaning PDF](./LAYOFFS_2022_MYSQL_DATA_CLEANING.pdf)
+
+
 ## Key Objectives
 - **Data Cleaning**: Remove duplicates, inconsistencies, and unnecessary spaces or characters in the dataset.
 - **Data Standardization**: Ensure all company names, industries, and numerical data are standardized for easier analysis.
